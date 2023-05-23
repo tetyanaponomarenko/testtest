@@ -1,2 +1,3 @@
 const testtest = "testtest";
-alert("Hello wordl!")
+alert("Привіт")
+      
